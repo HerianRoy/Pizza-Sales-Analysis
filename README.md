@@ -37,7 +37,7 @@ Some of the questions that need to be answered are:
     5) Assess seating capacity utilization (the restaurant has 15 tables and 60 seats); and,
     6) Create a single-page visual
     
- ##### Tools Used
+ ### Tools Used
  
      Pandas
      Matplotlib
