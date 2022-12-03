@@ -1,5 +1,7 @@
 # A Project From Maven Analytics: The Maven Pizza Challenge 
 
+![plot](C:/Users/HerIan Roy Hernandez/Pictures.png)
+
 ### Facts
    In this project, I am playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. I have been hired to help the restaurant use data to improve operation.
    
