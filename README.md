@@ -1,7 +1,7 @@
 # A Project From Maven Analytics: The Maven Pizza Challenge 
 
 ### Facts
-   In this project, I am playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. I have been hired to help the restaurant use data to improve operation.
+   In this project, I played the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. I was hired to help the restaurant use data to improve operation.
    
 _The Dataset_
        
